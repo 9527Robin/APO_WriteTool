@@ -1,5 +1,5 @@
 ## Helping you register EqualizerAPO devices
 
 ```
-APO_WriteTool.exe {设备GUID}
+APO_WriteTool.exe {device-GUID}
 ```
